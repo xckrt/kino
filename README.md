@@ -21,7 +21,7 @@
 
 | Главный экран | Выбор мест | Билет | Профиль |
 |:---:|:---:|:---:|:---:|
-| <img src="docs/home.png" width="200"/> | <img src="docs/seats.png" width="200"/> | <img src="docs/ticket.png" width="200"/> | <img src="docs/profile.png" width="200"/> |
+| <img src="docs/home.jpg" width="200"/> | <img src="docs/seats.jpg" width="200"/> | <img src="docs/ticket.jpg" width="200"/> | <img src="docs/profile.jpg" width="200"/> |
 ## 🛠 Технологический стек
 
 Проект построен на архитектуре **MVVM** с принципами **Clean Architecture**.
