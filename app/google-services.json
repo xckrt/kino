@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "39250263492",
+    "project_id": "kinoteatr-b1d52",
+    "storage_bucket": "kinoteatr-b1d52.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:39250263492:android:4513d898fd9f2238907891",
+        "android_client_info": {
+          "package_name": "com.example.kino"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAdr8xBiTms_VCx2H36GZ06XH8LsCc6h7k"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
